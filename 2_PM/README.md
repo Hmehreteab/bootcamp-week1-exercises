@@ -6,12 +6,12 @@ Let's build a basic website with HTML and CSS!
 
 Your website must include the following elements:
 
-- at least 4 separate pages
-- one table
-- three images
-- a navigation bar where you can access every page
-- two clickable images
-- four links to external pages
+- at least 4 separate pages DONE
+- one table DONE
+- three images DONE
+- a navigation bar where you can access every page DONE
+- two clickable images almost DONE
+- four links to external pages DONE
 - one bulleted list
 - two numbered lists
 
