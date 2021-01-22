@@ -5,14 +5,14 @@ using string variables in the place of certain
 nouns, adjectives, and verbs */
 
 /* Variables, i.e.
-const noun1 = ______
-const verb1 = ______
 
 Change thses values to generate a different story
 */
 
-const story = `
-**replace this with your story using a template string**
-`
+const noun1 = "bread";
+const verb1 = "eat";
+
+const story = 
+`${verb1} the ${noun1}!`;
 
 console.log(story)
